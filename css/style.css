@@ -6,7 +6,7 @@ a{
 	text-decoration: none;
 }
 header{
-	 background-image: url(../img/HeaderBg.jpg);
+	 background-image: url(https://github.com/2OvErClOcKeR2/2overclocker2.github.io/blob/master/img/HeaderBg.jpg);
 	 width: 100%;
      height: 212px;
 	 background-repeat: no-repeat;
@@ -105,13 +105,13 @@ header{
 	 float: right;
 }
 .phone {
-     background: url(../img/li_phone.png);
+     background: url(https://github.com/2OvErClOcKeR2/2overclocker2.github.io/blob/master/img/li_phone.png);
 	 padding-left: 40px;
 	 background-repeat: no-repeat;
 	 list-style:none;
 }
 .gps {
-     background: url(../img/li_gps.png);
+     background: url(https://github.com/2OvErClOcKeR2/2overclocker2.github.io/blob/master/img/li_gps.png);
 	 padding-left: 40px;
 	 background-repeat: no-repeat;
 	 list-style:none;
@@ -186,7 +186,7 @@ header{
 	 padding-bottom: 27px;
 }
 .subscribe_wrapper{
-	 background-image: url(../img/SubscribeBackground.jpg);
+	 background-image: url(https://github.com/2OvErClOcKeR2/2overclocker2.github.io/blob/master/img/SubscribeBackground.jpg);
 	 width: 100%;
      height: 220px;
 	 background-repeat: no-repeat;
@@ -218,7 +218,7 @@ header{
 	 height: 40px;
 	 outline: none;
 	 border: none;
-	 background: url(../img/Input.jpg);
+	 background: url(https://github.com/2OvErClOcKeR2/2overclocker2.github.io/blob/master/img/Input.jpg);
 	 background-repeat: no-repeat;
 	 font-size: 18px;
 	 font-family: 'Exo 2';

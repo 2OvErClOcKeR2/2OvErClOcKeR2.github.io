@@ -4,12 +4,12 @@ body{
 }
 .frame{
 	background: #141619;
-	width: 255px;
+	width: 257px;
 }
 .frame > .date_update{
 	color: #b1b1b1;
-	padding: 5px;
-	margin: 5px;
+	padding: 0px;
+	margin: 10px;
 	font-size: 19px;
     font-weight: 500px;
     font-family: "Roboto",sans-serif;
